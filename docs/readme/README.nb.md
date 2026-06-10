@@ -28,4 +28,4 @@ Hvis du støter på problemer, meld fra via [GitHub Issues](https://github.com/l
 
 ## Personvernerklæring
 
-Kubby samler ikke inn noen data. [Les hele erklæringen](../../PRIVACY.md).
+Kubby samler ikke inn noen data. [Les hele erklæringen](../privacy/PRIVACY.nb.md).

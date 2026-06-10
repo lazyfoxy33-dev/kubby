@@ -28,4 +28,4 @@ Se encontrar algum problema, comunique-o através de [GitHub Issues](https://git
 
 ## Política de privacidade
 
-O Kubby não recolhe quaisquer dados. [Ler a política completa](../../PRIVACY.md).
+O Kubby não recolhe quaisquer dados. [Ler a política completa](../privacy/PRIVACY.pt-PT.md).

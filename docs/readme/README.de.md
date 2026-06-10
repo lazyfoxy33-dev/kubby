@@ -28,4 +28,4 @@ Bei Problemen melden Sie sich bitte über [GitHub Issues](https://github.com/laz
 
 ## Datenschutzerklärung
 
-Kubby erfasst keinerlei Daten. [Vollständige Datenschutzerklärung lesen](../../PRIVACY.md).
+Kubby erfasst keinerlei Daten. [Vollständige Datenschutzerklärung lesen](../privacy/PRIVACY.de.md).

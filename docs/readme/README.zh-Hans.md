@@ -28,4 +28,4 @@ Kubby 是一个轻量的文件暂存架，常驻屏幕边缘。把文件拖入 K
 
 ## 隐私政策
 
-Kubby 不收集任何数据。[查看完整隐私政策](../../PRIVACY.md)。
+Kubby 不收集任何数据。[查看完整隐私政策](../privacy/PRIVACY.zh-Hans.md)。

@@ -28,4 +28,4 @@ Loop je tegen problemen aan, meld ze dan via [GitHub Issues](https://github.com/
 
 ## Privacybeleid
 
-Kubby verzamelt geen enkele data. [Lees het volledige privacybeleid](../../PRIVACY.md).
+Kubby verzamelt geen enkele data. [Lees het volledige privacybeleid](../privacy/PRIVACY.nl.md).

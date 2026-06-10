@@ -28,4 +28,4 @@ Hvis du støder på problemer, så rapportér dem via [GitHub Issues](https://gi
 
 ## Privatlivspolitik
 
-Kubby indsamler ingen data. [Læs hele politikken](../../PRIVACY.md).
+Kubby indsamler ingen data. [Læs hele politikken](../privacy/PRIVACY.da.md).

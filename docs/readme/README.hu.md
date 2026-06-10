@@ -28,4 +28,4 @@ Ha problémába ütközik, jelezze a [GitHub Issues](https://github.com/lazyfoxy
 
 ## Adatvédelmi irányelvek
 
-A Kubby semmilyen adatot nem gyűjt. [Teljes adatvédelmi irányelvek](../../PRIVACY.md).
+A Kubby semmilyen adatot nem gyűjt. [Teljes adatvédelmi irányelvek](../privacy/PRIVACY.hu.md).

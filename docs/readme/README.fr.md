@@ -28,4 +28,4 @@ En cas de problème, signalez-le via [GitHub Issues](https://github.com/lazyfoxy
 
 ## Politique de confidentialité
 
-Kubby ne collecte aucune donnée. [Lire la politique complète](../../PRIVACY.md).
+Kubby ne collecte aucune donnée. [Lire la politique complète](../privacy/PRIVACY.fr.md).

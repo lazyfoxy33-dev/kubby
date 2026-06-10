@@ -28,4 +28,4 @@ W razie problemów zgłoś je przez [GitHub Issues](https://github.com/lazyfoxy3
 
 ## Polityka prywatności
 
-Kubby nie zbiera żadnych danych. [Przeczytaj pełną politykę](../../PRIVACY.md).
+Kubby nie zbiera żadnych danych. [Przeczytaj pełną politykę](../privacy/PRIVACY.pl.md).

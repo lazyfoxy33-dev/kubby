@@ -28,4 +28,4 @@ Jos kohtaat ongelmia, ilmoita niistä [GitHub Issues](https://github.com/lazyfox
 
 ## Tietosuojakäytäntö
 
-Kubby ei kerää mitään tietoja. [Lue koko käytäntö](../../PRIVACY.md).
+Kubby ei kerää mitään tietoja. [Lue koko käytäntö](../privacy/PRIVACY.fi.md).

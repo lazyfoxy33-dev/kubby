@@ -28,4 +28,4 @@ Pokud narazíte na problémy, nahlaste je přes [GitHub Issues](https://github.c
 
 ## Zásady ochrany soukromí
 
-Kubby neshromažďuje žádná data. [Přečíst celé zásady](../../PRIVACY.md).
+Kubby neshromažďuje žádná data. [Přečíst celé zásady](../privacy/PRIVACY.cs.md).

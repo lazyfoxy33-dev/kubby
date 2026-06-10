@@ -28,4 +28,4 @@ Om du stöter på problem, rapportera dem via [GitHub Issues](https://github.com
 
 ## Integritetspolicy
 
-Kubby samlar inte in någon data. [Läs hela policyn](../../PRIVACY.md).
+Kubby samlar inte in någon data. [Läs hela policyn](../privacy/PRIVACY.sv.md).

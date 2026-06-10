@@ -28,4 +28,4 @@ In caso di problemi, segnalali tramite [GitHub Issues](https://github.com/lazyfo
 
 ## Informativa sulla privacy
 
-Kubby non raccoglie alcun dato. [Leggi l'informativa completa](../../PRIVACY.md).
+Kubby non raccoglie alcun dato. [Leggi l'informativa completa](../privacy/PRIVACY.it.md).
