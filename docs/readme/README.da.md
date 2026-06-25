@@ -13,9 +13,9 @@ Kubby er en let filhylde ved skærmkanten. Træk filer ind, naviger til destinat
 ## Funktioner
 
 - Hylde ved skærmkanten, altid inden for rækkevidde, aldrig i vejen
-- Markørtilstand — hylden dukker op, hvor du trækker
 - Flere filer og mapper på én gang
-- Smarte destinationsforslag efter type og historik
+- Automatiske skærmbilleder — tagne skærmbilleder lægges automatisk på hylden
+- Stakke med flere filer — slip flere filer på én gang, så samles de i én pæn stak, du kan folde ud eller trække ud samlet
 - Lys og mørk tilstand
 
 ## Systemkrav

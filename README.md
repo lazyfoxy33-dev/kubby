@@ -13,9 +13,9 @@ Kubby is a lightweight file shelf that lives on your screen edge. Drag files in,
 ## Features
 
 - Screen-edge shelf, always within reach, never in the way
-- Cursor mode — shelf pops up right where you're dragging
 - Hold multiple files and folders at once
-- Smart destination suggestions based on file type and history
+- Auto-collect screenshots — captured screenshots land on the shelf automatically
+- Multi-file stacks — drop several files at once and they group into one tidy stack you can expand, or drag out together
 - Light and dark mode support
 
 ## Requirements

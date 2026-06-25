@@ -13,9 +13,9 @@ Kubby on kevyt tiedostohylly näytön reunalla. Vedä tiedostot sisään, siirry
 ## Ominaisuudet
 
 - Näytön reunan hylly, aina käsillä, ei koskaan tiellä
-- Kursoritila — hylly ilmestyy sinne, missä vedät
 - Useita tiedostoja ja kansioita samanaikaisesti
-- Älykkäät kohdesijainnit tyypin ja historian perusteella
+- Automaattiset kuvakaappaukset — ottamasi kuvakaappaukset siirtyvät hyllyyn automaattisesti
+- Monen tiedoston pinot — pudota useita tiedostoja kerralla, niin ne ryhmittyvät siistiksi pinoksi, jonka voit laajentaa tai vetää ulos yhdessä
 - Vaalea ja tumma tila
 
 ## Järjestelmävaatimukset

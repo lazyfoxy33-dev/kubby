@@ -13,9 +13,9 @@ Kubby er en lett filhylle ved skjermkanten. Dra filer inn, naviger til destinasj
 ## Funksjoner
 
 - Hylle ved skjermkanten, alltid tilgjengelig, aldri i veien
-- Markørmodus — hyllen dukker opp der du drar
 - Flere filer og mapper samtidig
-- Smarte destinasjonsforslag etter type og historikk
+- Automatiske skjermbilder — skjermbilder du tar havner automatisk i hyllen
+- Stabler med flere filer — slipp flere filer samtidig, så samles de i én ryddig stabel du kan utvide eller dra ut samlet
 - Lys og mørk modus
 
 ## Systemkrav

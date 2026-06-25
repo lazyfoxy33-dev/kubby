@@ -13,9 +13,9 @@ Kubby ist eine leichte Dateiablage am Bildschirmrand. Ziehen Sie Dateien hinein,
 ## Funktionen
 
 - Bildschirmrand-Ablage, immer griffbereit, nie im Weg
-- Cursor-Modus — Ablage erscheint direkt am Ziehpunkt
 - Mehrere Dateien und Ordner gleichzeitig
-- Intelligente Zielvorschläge nach Typ und Verlauf
+- Screenshots automatisch sammeln — aufgenommene Screenshots landen automatisch im Ablagefach
+- Stapel für mehrere Dateien — mehrere Dateien gleichzeitig ablegen, sie bilden einen ordentlichen Stapel zum Ausklappen oder gemeinsamen Herausziehen
 - Hell- und Dunkel-Modus
 
 ## Systemvoraussetzungen

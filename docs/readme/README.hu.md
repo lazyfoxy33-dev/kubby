@@ -13,9 +13,9 @@ A Kubby egy könnyű fájlpolc a képernyő szélén. Húzza be a fájlokat, nav
 ## Funkciók
 
 - Képernyő széli polc, mindig kéznél, soha nem akadályoz
-- Kurzormód — a polc ott jelenik meg, ahol húz
 - Több fájl és mappa egyszerre
-- Intelligens célmappa-javaslatok típus és előzmények alapján
+- Automatikus képernyőképek — az elkészített képernyőképek automatikusan a polcra kerülnek
+- Többfájlos kötegek — húzz be több fájlt egyszerre, és egyetlen rendezett kötegbe rendeződnek, amelyet kibonthatsz vagy együtt húzhatsz ki
 - Világos és sötét mód
 
 ## Rendszerkövetelmények

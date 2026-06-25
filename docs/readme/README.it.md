@@ -13,9 +13,9 @@ Kubby è uno scaffale leggero sul bordo dello schermo. Trascina i file dentro, n
 ## Funzioni
 
 - Scaffale a bordo schermo, sempre a portata, mai d'intralcio
-- Modalità cursore — lo scaffale appare dove stai trascinando
 - Più file e cartelle contemporaneamente
-- Suggerimenti intelligenti per tipo e cronologia
+- Screenshot automatici — gli screenshot acquisiti finiscono automaticamente sul ripiano
+- Pile multi-file — trascina più file insieme e si raggruppano in una pila ordinata da espandere o trascinare fuori insieme
 - Modalità chiara e scura
 
 ## Requisiti

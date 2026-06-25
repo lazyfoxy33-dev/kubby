@@ -13,9 +13,9 @@ Kubby to lekka półka na pliki przy krawędzi ekranu. Przeciągnij pliki do śr
 ## Funkcje
 
 - Półka przy krawędzi ekranu, zawsze pod ręką, nigdy nie przeszkadza
-- Tryb kursora — półka pojawia się tam, gdzie przeciągasz
 - Wiele plików i folderów jednocześnie
-- Inteligentne sugestie celu według typu i historii
+- Automatyczne zrzuty ekranu — wykonane zrzuty trafiają automatycznie na półkę
+- Stosy wielu plików — przeciągnij kilka plików naraz, a ułożą się w schludny stos, który możesz rozwinąć lub przeciągnąć w całości
 - Tryb jasny i ciemny
 
 ## Wymagania

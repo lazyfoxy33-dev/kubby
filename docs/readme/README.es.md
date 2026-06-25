@@ -13,9 +13,9 @@ Kubby es un estante ligero en el borde de tu pantalla. Arrastra archivos dentro,
 ## Funciones
 
 - Estante en el borde, siempre a mano, nunca estorbando
-- Modo cursor — el estante aparece justo donde arrastras
 - Varios archivos y carpetas a la vez
-- Sugerencias inteligentes según tipo e historial
+- Captura de pantalla automática — las capturas llegan automáticamente a la bandeja
+- Pilas de varios archivos — suelta varios archivos a la vez y se agrupan en una pila ordenada que puedes desplegar o arrastrar junta
 - Modo claro y oscuro
 
 ## Requisitos

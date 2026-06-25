@@ -13,9 +13,9 @@ O Kubby é uma prateleira leve na borda do ecrã. Arraste ficheiros para dentro,
 ## Funcionalidades
 
 - Prateleira na borda do ecrã, sempre disponível, nunca a atrapalhar
-- Modo cursor — a prateleira aparece onde está a arrastar
 - Vários ficheiros e pastas em simultâneo
-- Sugestões inteligentes por tipo e histórico
+- Capturas de ecrã automáticas — as capturas vão automaticamente para a prateleira
+- Pilhas de vários ficheiros — largue vários ficheiros ao mesmo tempo e agrupam-se numa pilha organizada que pode expandir ou arrastar em conjunto
 - Modo claro e escuro
 
 ## Requisitos

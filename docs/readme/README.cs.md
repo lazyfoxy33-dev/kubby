@@ -13,9 +13,9 @@ Kubby je lehká polička na soubory u okraje obrazovky. Přetáhněte soubory do
 ## Funkce
 
 - Polička u okraje obrazovky, vždy po ruce, nikdy nepřekáží
-- Režim kurzoru — polička se zobrazí tam, kde táhnete
 - Více souborů a složek současně
-- Chytré návrhy cíle podle typu a historie
+- Automatické snímky obrazovky — pořízené snímky se automaticky ukládají na poličku
+- Stohy více souborů — přetáhněte více souborů najednou a seskupí se do úhledného stohu, který můžete rozbalit nebo vytáhnout najednou
 - Světlý a tmavý režim
 
 ## Požadavky

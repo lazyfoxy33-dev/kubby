@@ -13,9 +13,9 @@ Kubby est une étagère légère logée en bordure d'écran. Faites glisser vos 
 ## Fonctionnalités
 
 - Étagère en bordure d'écran, toujours accessible, jamais gênante
-- Mode curseur — l'étagère apparaît là où vous faites glisser
 - Plusieurs fichiers et dossiers en même temps
-- Suggestions intelligentes selon type et historique
+- Capture d’écran automatique — les captures d’écran arrivent automatiquement sur l’étagère
+- Piles multi-fichiers — déposez plusieurs fichiers à la fois, ils forment une pile soignée que vous pouvez déplier ou faire glisser ensemble
 - Modes clair et sombre
 
 ## Configuration requise

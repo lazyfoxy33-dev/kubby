@@ -13,9 +13,9 @@ Kubby is een lichte bestandsplank aan de rand van je scherm. Sleep bestanden eri
 ## Functies
 
 - Schermrand-plank, altijd binnen handbereik, nooit storend
-- Cursormodus — plank verschijnt waar je sleept
 - Meerdere bestanden en mappen tegelijk
-- Slimme doelsuggesties op type en geschiedenis
+- Schermafbeeldingen automatisch verzamelen — gemaakte schermafbeeldingen komen automatisch op de plank
+- Stapels met meerdere bestanden — sleep meerdere bestanden tegelijk en ze vormen één nette stapel om uit te klappen of samen naar buiten te slepen
 - Lichte en donkere modus
 
 ## Vereisten
