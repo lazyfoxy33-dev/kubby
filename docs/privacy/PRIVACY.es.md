@@ -1,6 +1,6 @@
 # Política de privacidad de Kubby
 
-*Última actualización: 2026-06-10*
+*Última actualización: 2026-06-25*
 
 🌐 [English](../../PRIVACY.md) · [简体中文](PRIVACY.zh-Hans.md) · [繁體中文](PRIVACY.zh-Hant.md) · [日本語](PRIVACY.ja.md) · [한국어](PRIVACY.ko.md) · [Français](PRIVACY.fr.md) · [Deutsch](PRIVACY.de.md) · [Español](PRIVACY.es.md) · [Italiano](PRIVACY.it.md) · [Português](PRIVACY.pt-PT.md) · [Nederlands](PRIVACY.nl.md) · [Polski](PRIVACY.pl.md) · [Svenska](PRIVACY.sv.md) · [Norsk](PRIVACY.nb.md) · [Dansk](PRIVACY.da.md) · [Suomi](PRIVACY.fi.md) · [Čeština](PRIVACY.cs.md) · [Magyar](PRIVACY.hu.md)
 
@@ -9,8 +9,8 @@
 Kubby **no recopila ningún dato personal**.
 
 - **Red**: Kubby no se conecta a Internet y no realiza ninguna solicitud de red.
-- **Archivos**: Kubby solo mantiene temporalmente referencias de archivos cuando el usuario los arrastra, únicamente para mostrarlos y moverlos. Todas las referencias se liberan inmediatamente al cerrar la app o vaciar el estante. El contenido de los archivos nunca se lee, copia ni sube.
-- **Accesibilidad**: Kubby solicita el permiso de Accesibilidad únicamente para detectar gestos de arrastre y mostrar el panel cerca del cursor. No lee el contenido de la pantalla ni registra pulsaciones de teclas.
+- **Archivos**: cuando arrastras elementos, Kubby solo guarda referencias de ruta de archivo (incluida una caché local para restaurar la bandeja en el próximo inicio). Las referencias permanecen hasta que las eliminas o vacías la bandeja; el contenido de los archivos nunca se lee, copia ni sube.
+- **Capturas de pantalla**: cuando activas «Capturas a la bandeja», Kubby accede a la carpeta de capturas que elijas (mediante un marcador con ámbito de seguridad) solo para añadir las nuevas capturas a la bandeja como referencias. Su contenido permanece en tu Mac y nunca se sube.
 - **Informes de fallos**: No se integra ningún servicio externo de recopilación de fallos.
 - **Análisis**: No se integran SDK de análisis ni de seguimiento.
 

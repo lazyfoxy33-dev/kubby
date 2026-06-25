@@ -1,6 +1,6 @@
 # Kubby 隐私政策
 
-*最后更新: 2026-06-10*
+*最后更新: 2026-06-25*
 
 🌐 [English](../../PRIVACY.md) · [简体中文](PRIVACY.zh-Hans.md) · [繁體中文](PRIVACY.zh-Hant.md) · [日本語](PRIVACY.ja.md) · [한국어](PRIVACY.ko.md) · [Français](PRIVACY.fr.md) · [Deutsch](PRIVACY.de.md) · [Español](PRIVACY.es.md) · [Italiano](PRIVACY.it.md) · [Português](PRIVACY.pt-PT.md) · [Nederlands](PRIVACY.nl.md) · [Polski](PRIVACY.pl.md) · [Svenska](PRIVACY.sv.md) · [Norsk](PRIVACY.nb.md) · [Dansk](PRIVACY.da.md) · [Suomi](PRIVACY.fi.md) · [Čeština](PRIVACY.cs.md) · [Magyar](PRIVACY.hu.md)
 
@@ -9,8 +9,8 @@
 Kubby **不收集任何个人数据**。
 
 - **网络**：Kubby 不连接互联网，不发起任何网络请求。
-- **文件**：Kubby 仅在用户主动拖入文件时临时持有文件引用，用于显示和移动操作。关闭 App 或清空托盘后，所有引用立即释放，文件本身不被复制、读取内容或上传。
-- **辅助功能**：Kubby 申请辅助功能权限，仅用于监测拖拽手势以在光标附近显示暂存面板。不读取屏幕内容，不记录键盘输入。
+- **文件**：拖入文件时，Kubby 只保存文件的路径引用（含一份本地缓存，以便下次启动恢复暂存架）。引用会一直保留，直到你移除或清空，且永不读取、复制或上传文件内容。
+- **截图**：开启「截图自动入托盘」后，Kubby 通过安全作用域书签访问你选定的截图文件夹，仅用于把新截图作为文件引用加入暂存架。其内容留在你的 Mac 上，绝不上传。
 - **崩溃报告**：不集成任何第三方崩溃收集服务。
 - **分析**：不集成任何分析或追踪 SDK。
 
