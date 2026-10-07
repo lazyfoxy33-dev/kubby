@@ -8,8 +8,8 @@
 
 Kubby **ei kerää mitään henkilötietoja**.
 
-- **Verkko**: Kubby ei muodosta internetyhteyttä eikä tee verkkopyyntöjä.
-- **Tiedostot**: kun vedät kohteita sisään, Kubby tallentaa vain tiedostopolkujen viittauksia (mukaan lukien paikallinen välimuisti hyllyn palauttamiseksi seuraavalla käynnistyksellä). Viittaukset säilyvät, kunnes poistat ne tai tyhjennät hyllyn; tiedostojen sisältöä ei koskaan lueta, kopioida tai ladata.
+- **Verkko**: Kubby ei muodosta yhteyttä internetiin. Se kommunikoi ainoastaan suoraan omien paritettujen laitteidesi kanssa paikallisverkossa (Bonjour/mDNS-haku + suorat laite-laite-yhteydet). Palvelinta ei käytetä.
+- **Tiedostot**: Kun asetat kohteen hyllylle, Kubby tallentaa vain tiedostopolkua koskevan viittauksen (sekä pienen paikallisen välimuistin, jotta hylly palautuu seuraavalla käynnistyskerralla). Viittaukset säilyvät, kunnes poistat ne tai tyhjennät hyllyn. Tiedostojen sisältö siirretään paritettujen laitteidesi välillä **vain silloin, kun itse noudat kohteen**, suoraan paikallisverkossa – ei koskaan palvelimen kautta.
 - **Kuvakaappaukset**: kun otat käyttöön ”Kuvakaappaukset hyllyyn”, Kubby käyttää valitsemaasi kuvakaappauskansiota (suojatun kirjanmerkin kautta) vain lisätäkseen uudet kuvakaappaukset hyllyyn viittauksina. Niiden sisältö pysyy Macissasi eikä sitä koskaan ladata verkkoon.
 - **Kaatumisraportointi**: Kolmannen osapuolen kaatumisraportointipalvelua ei ole integroitu.
 - **Analytiikka**: Analytiikka- tai seuranta-SDK:ita ei ole integroitu.

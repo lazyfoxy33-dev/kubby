@@ -8,8 +8,8 @@
 
 Kubby **indsamler ingen personoplysninger**.
 
-- **Netværk**: Kubby opretter ikke forbindelse til internettet og foretager ingen netværksanmodninger.
-- **Filer**: når du trækker emner ind, gemmer Kubby kun referencer til filstier (inklusive en lokal cache, så hylden gendannes ved næste opstart). Referencerne bliver, indtil du fjerner dem eller rydder hylden; filindhold læses, kopieres eller uploades aldrig.
+- **Netværk**: Kubby opretter ikke forbindelse til internettet. Appen kommunikerer kun direkte med dine egne parrede enheder i dit lokale netværk (Bonjour/mDNS-registrering + direkte enhed-til-enhed-forbindelser). Der er ingen server involveret.
+- **Filer**: Når du lægger et element på hylden, gemmer Kubby kun en filstireference (plus en lille lokal cache, så hylden gendannes ved næste start). Referencerne bevares, indtil du fjerner dem eller tømmer hylden. Filindhold overføres kun mellem dine parrede enheder, **når du selv henter elementet**, direkte over dit lokale netværk og aldrig via en server.
 - **Skærmbilleder**: når du slår »Skærmbilleder til hylden« til, tilgår Kubby den skærmbilledmappe, du vælger (via et sikkerhedsafgrænset bogmærke), udelukkende for at føje nye skærmbilleder til hylden som referencer. Indholdet bliver på din Mac og uploades aldrig.
 - **Nedbrudsrapportering**: Ingen tredjeparts nedbrudsrapporteringstjeneste er integreret.
 - **Analyse**: Ingen analyse- eller sporings-SDK'er er integreret.

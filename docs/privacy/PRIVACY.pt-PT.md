@@ -8,8 +8,8 @@
 
 O Kubby **não recolhe quaisquer dados pessoais**.
 
-- **Rede**: O Kubby não se liga à Internet e não efetua quaisquer pedidos de rede.
-- **Ficheiros**: quando arrasta itens, o Kubby guarda apenas referências de caminho dos ficheiros (incluindo uma cache local para restaurar a prateleira no arranque seguinte). As referências permanecem até as remover ou esvaziar a prateleira; o conteúdo dos ficheiros nunca é lido, copiado ou carregado.
+- **Rede**: O Kubby não se liga à Internet. Comunica apenas diretamente com os seus próprios dispositivos emparelhados, dentro da rede local (descoberta Bonjour/mDNS + ligações diretas entre dispositivos). Não envolve qualquer servidor.
+- **Ficheiros**: Ao colocar um item na prateleira, o Kubby guarda apenas uma referência ao caminho do ficheiro (mais uma pequena cache local para restaurar a prateleira no arranque seguinte). As referências mantêm-se até as remover ou limpar a prateleira. O conteúdo dos ficheiros só é transferido entre os seus dispositivos emparelhados **quando retira o item**, diretamente na rede local e nunca através de um servidor.
 - **Capturas de ecrã**: quando ativa «Capturas de ecrã para a prateleira», o Kubby acede à pasta de capturas que escolher (através de um marcador com âmbito de segurança) apenas para adicionar as novas capturas à prateleira como referências. O seu conteúdo permanece no seu Mac e nunca é carregado.
 - **Relatórios de falhas**: Não está integrado nenhum serviço externo de recolha de falhas.
 - **Análise**: Não estão integrados SDK de análise ou rastreio.

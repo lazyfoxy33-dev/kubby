@@ -8,8 +8,8 @@
 
 A Kubby **semmilyen személyes adatot nem gyűjt**.
 
-- **Hálózat**: A Kubby nem csatlakozik az internethez, és nem küld hálózati kéréseket.
-- **Fájlok**: amikor elemeket húzol be, a Kubby csak fájlútvonal-hivatkozásokat tárol (egy helyi gyorsítótárat is beleértve, hogy a polc a következő indításkor visszaálljon). A hivatkozások megmaradnak, amíg el nem távolítod őket vagy ki nem üríted a polcot; a fájlok tartalmát soha nem olvassa, másolja vagy tölti fel.
+- **Hálózat**: A Kubby nem csatlakozik az internethez. Kizárólag a párosított saját eszközeiddel kommunikál közvetlenül, a helyi hálózaton belül (Bonjour/mDNS felderítés + közvetlen eszköz–eszköz kapcsolat). Szerver nem vesz részt benne.
+- **Fájlok**: Amikor egy elemet a polcra tesz, a Kubby csak egy fájlútvonal-hivatkozást tárol (plusz egy kis helyi gyorsítótárat, hogy a polc a következő indításkor helyreálljon). A hivatkozások addig maradnak, amíg el nem távolítod őket, vagy ki nem üríted a polcot. A fájlok tartalma **csak akkor** kerül át a párosított eszközök között, **amikor te magad kiveszed az elemet**, közvetlenül a helyi hálózaton, soha nem szerveren keresztül.
 - **Képernyőképek**: ha bekapcsolod a „Képernyőképek a polcra” lehetőséget, a Kubby a kiválasztott képernyőkép-mappához biztonsági hatókörű könyvjelzőn keresztül fér hozzá, kizárólag azért, hogy az új képernyőképeket hivatkozásként a polcra tegye. A tartalmuk a Macen marad, és soha nem töltődik fel.
 - **Összeomlás-jelentés**: Nincs integrálva harmadik féltől származó összeomlásgyűjtő szolgáltatás.
 - **Analitika**: Nincsenek integrálva analitikai vagy követési SDK-k.

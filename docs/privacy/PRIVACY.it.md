@@ -8,8 +8,8 @@
 
 Kubby **non raccoglie alcun dato personale**.
 
-- **Rete**: Kubby non si connette a Internet e non effettua alcuna richiesta di rete.
-- **File**: quando trascini elementi, Kubby salva solo riferimenti al percorso dei file (inclusa una cache locale per ripristinare il ripiano al successivo avvio). I riferimenti rimangono finché non li rimuovi o svuoti il ripiano; il contenuto dei file non viene mai letto, copiato o caricato.
+- **Rete**: Kubby non si connette a Internet. Comunica solo direttamente con i tuoi dispositivi associati, all'interno della rete locale (rilevamento Bonjour/mDNS + connessioni dirette fra dispositivi). Nessun server è coinvolto.
+- **File**: Quando metti un elemento sullo scaffale, Kubby salva solo un riferimento al percorso del file (più una piccola cache locale per ripristinare lo scaffale al prossimo avvio). I riferimenti restano finché non li rimuovi o non svuoti lo scaffale. Il contenuto dei file viene trasferito tra i tuoi dispositivi associati **solo quando prendi l'elemento**, direttamente sulla rete locale e mai tramite un server.
 - **Screenshot**: quando attivi «Screenshot nel ripiano», Kubby accede alla cartella degli screenshot che scegli (tramite un segnalibro con ambito di sicurezza) solo per aggiungere i nuovi screenshot al ripiano come riferimenti. Il loro contenuto resta sul tuo Mac e non viene mai caricato.
 - **Segnalazione arresti anomali**: Non è integrato alcun servizio di terze parti per la raccolta di arresti anomali.
 - **Analisi**: Non sono integrati SDK di analisi o tracciamento.

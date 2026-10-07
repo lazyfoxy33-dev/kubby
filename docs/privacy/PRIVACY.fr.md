@@ -8,8 +8,8 @@
 
 Kubby **ne collecte aucune donnée personnelle**.
 
-- **Réseau**: Kubby ne se connecte pas à Internet et n'effectue aucune requête réseau.
-- **Fichiers** : lorsque vous déposez des éléments, Kubby ne conserve que des références de chemin de fichier (y compris un cache local pour restaurer l’étagère au prochain lancement). Les références restent jusqu’à ce que vous les retiriez ou vidiez l’étagère ; le contenu des fichiers n’est jamais lu, copié ni téléversé.
+- **Réseau** : Kubby ne se connecte pas à Internet. Il communique uniquement en direct avec vos propres appareils appairés, au sein de votre réseau local (découverte Bonjour/mDNS + connexions directes entre appareils). Aucun serveur n'est impliqué.
+- **Fichiers** : Lorsque vous déposez un élément sur l'étagère, Kubby ne conserve qu'une référence de chemin de fichier (avec un petit cache local pour restaurer l'étagère au prochain lancement). Les références restent jusqu'à leur suppression ou l'effacement de l'étagère. Le contenu des fichiers n'est transféré entre vos appareils appairés **que lorsque vous prenez l'élément**, directement sur votre réseau local, sans passer par aucun serveur.
 - **Captures d’écran** : lorsque vous activez « Captures d’écran vers l’étagère », Kubby accède au dossier de captures que vous choisissez (via un signet à portée de sécurité) uniquement pour ajouter les nouvelles captures à l’étagère sous forme de références. Leur contenu reste sur votre Mac et n’est jamais téléversé.
 - **Rapports de plantage**: Aucun service tiers de collecte de plantages n'est intégré.
 - **Analyse**: Aucun SDK d'analyse ou de suivi n'est intégré.

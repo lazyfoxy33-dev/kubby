@@ -8,8 +8,8 @@
 
 Kubby **erfasst keinerlei personenbezogene Daten**.
 
-- **Netzwerk**: Kubby verbindet sich nicht mit dem Internet und stellt keine Netzwerkanfragen.
-- **Dateien**: Wenn Sie Objekte ablegen, speichert Kubby nur Dateipfad-Referenzen (einschließlich eines lokalen Caches, um das Ablagefach beim nächsten Start wiederherzustellen). Die Referenzen bleiben erhalten, bis Sie sie entfernen oder das Ablagefach leeren; Dateiinhalte werden niemals gelesen, kopiert oder hochgeladen.
+- **Netzwerk**: Kubby verbindet sich nicht mit dem Internet. Die App kommuniziert ausschließlich direkt mit Ihren eigenen, gekoppelten Geräten im selben lokalen Netzwerk (Bonjour/mDNS-Erkennung + direkte Geräte-zu-Gerät-Verbindungen). Es sind keine Server beteiligt.
+- **Dateien**: Wenn Sie ein Element auf das Regal legen, speichert Kubby nur einen Dateipfad-Verweis (plus einen kleinen lokalen Cache, damit das Regal beim nächsten Start wiederhergestellt wird). Verweise bleiben, bis Sie sie entfernen oder das Regal leeren. Dateiinhalte werden zwischen Ihren gekoppelten Geräten **nur dann** übertragen, **wenn Sie das Element aktiv entnehmen**, direkt über Ihr lokales Netzwerk und niemals über einen Server.
 - **Screenshots**: Wenn Sie „Screenshots in die Ablage“ aktivieren, greift Kubby über ein Lesezeichen mit Sicherheitsbereich auf den von Ihnen gewählten Screenshot-Ordner zu, ausschließlich um neue Screenshots als Referenzen ins Ablagefach aufzunehmen. Ihre Inhalte bleiben auf Ihrem Mac und werden nie hochgeladen.
 - **Absturzberichte**: Es ist kein Absturzbericht-Dienst von Drittanbietern integriert.
 - **Analyse**: Es sind keine Analyse- oder Tracking-SDKs integriert.

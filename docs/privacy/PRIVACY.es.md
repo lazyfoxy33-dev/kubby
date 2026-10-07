@@ -8,8 +8,8 @@
 
 Kubby **no recopila ningún dato personal**.
 
-- **Red**: Kubby no se conecta a Internet y no realiza ninguna solicitud de red.
-- **Archivos**: cuando arrastras elementos, Kubby solo guarda referencias de ruta de archivo (incluida una caché local para restaurar la bandeja en el próximo inicio). Las referencias permanecen hasta que las eliminas o vacías la bandeja; el contenido de los archivos nunca se lee, copia ni sube.
+- **Red**: Kubby no se conecta a internet. Solo se comunica directamente con tus propios dispositivos emparejados, dentro de tu red local (descubrimiento Bonjour/mDNS + conexiones directas entre dispositivos). No interviene ningún servidor.
+- **Archivos**: Al poner un elemento en el estante, Kubby solo guarda una referencia a la ruta del archivo (más una pequeña caché local para restaurar el estante al volver a abrir la app). Las referencias permanecen hasta que las elimines o vacíes el estante. El contenido de los archivos se transfiere entre tus dispositivos emparejados **solo cuando tomas el elemento**, directamente por tu red local y nunca a través de un servidor.
 - **Capturas de pantalla**: cuando activas «Capturas a la bandeja», Kubby accede a la carpeta de capturas que elijas (mediante un marcador con ámbito de seguridad) solo para añadir las nuevas capturas a la bandeja como referencias. Su contenido permanece en tu Mac y nunca se sube.
 - **Informes de fallos**: No se integra ningún servicio externo de recopilación de fallos.
 - **Análisis**: No se integran SDK de análisis ni de seguimiento.

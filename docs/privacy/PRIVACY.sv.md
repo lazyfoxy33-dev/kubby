@@ -8,8 +8,8 @@
 
 Kubby **samlar inte in några personuppgifter**.
 
-- **Nätverk**: Kubby ansluter inte till internet och gör inga nätverksanrop.
-- **Filer**: när du drar in objekt sparar Kubby endast filsökvägsreferenser (inklusive en lokal cache så att hyllan återställs vid nästa start). Referenserna finns kvar tills du tar bort dem eller tömmer hyllan; filinnehåll läses, kopieras eller laddas aldrig upp.
+- **Nätverk**: Kubby ansluter inte till internet. Appen kommunicerar endast direkt med dina egna ihopparade enheter inom ditt lokala nätverk (Bonjour/mDNS-upptäckt + direkta enhet-till-enhet-anslutningar). Ingen server är inblandad.
+- **Filer**: När du lägger ett objekt på hyllan sparar Kubby endast en filsökvägsreferens (plus en liten lokal cache så att hyllan återställs vid nästa start). Referenserna ligger kvar tills du tar bort dem eller tömmer hyllan. Filinnehåll överförs mellan dina ihopparade enheter **endast när du själv hämtar objektet**, direkt över ditt lokala nätverk och aldrig via någon server.
 - **Skärmbilder**: när du aktiverar ”Skärmbilder till hyllan” får Kubby åtkomst till skärmbildsmappen du väljer (via ett säkerhetsavgränsat bokmärke) enbart för att lägga till nya skärmbilder i hyllan som referenser. Innehållet stannar på din Mac och laddas aldrig upp.
 - **Kraschrapportering**: Ingen kraschrapporteringstjänst från tredje part är integrerad.
 - **Analys**: Inga analys- eller spårnings-SDK:er är integrerade.

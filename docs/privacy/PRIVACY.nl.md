@@ -8,8 +8,8 @@
 
 Kubby **verzamelt geen enkele persoonlijke data**.
 
-- **Netwerk**: Kubby maakt geen verbinding met internet en doet geen netwerkverzoeken.
-- **Bestanden**: wanneer je items sleept, bewaart Kubby alleen verwijzingen naar bestandspaden (inclusief een lokale cache om de plank bij de volgende start te herstellen). Verwijzingen blijven bestaan tot je ze verwijdert of de plank leegt; bestandsinhoud wordt nooit gelezen, gekopieerd of geüpload.
+- **Netwerk**: Kubby maakt geen verbinding met het internet. De app communiceert alleen rechtstreeks met je eigen gekoppelde apparaten, binnen je lokale netwerk (Bonjour/mDNS-detectie + directe verbindingen tussen apparaten). Er is geen server bij betrokken.
+- **Bestanden**: Wanneer je een item op de plank legt, bewaart Kubby alleen een verwijzing naar het bestandspad (plus een kleine lokale cache om de plank bij de volgende start te herstellen). Verwijzingen blijven staan tot je ze verwijdert of de plank leegmaakt. Bestandsinhoud wordt tussen je gekoppelde apparaten **alleen overgedragen wanneer je het item daadwerkelijk ophaalt**, rechtstreeks via je lokale netwerk en nooit via een server.
 - **Schermafbeeldingen**: wanneer je ‘Schermafbeeldingen naar de plank’ inschakelt, opent Kubby de door jou gekozen schermafbeeldingenmap (via een bladwijzer met beveiligingsbereik) uitsluitend om nieuwe schermafbeeldingen als verwijzingen aan de plank toe te voegen. De inhoud blijft op je Mac en wordt nooit geüpload.
 - **Crashrapportage**: Er is geen crashrapportagedienst van derden geïntegreerd.
 - **Analyse**: Er zijn geen analyse- of tracking-SDK's geïntegreerd.

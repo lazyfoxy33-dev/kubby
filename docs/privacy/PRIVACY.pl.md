@@ -8,8 +8,8 @@
 
 Kubby **nie zbiera żadnych danych osobowych**.
 
-- **Sieć**: Kubby nie łączy się z internetem i nie wykonuje żadnych żądań sieciowych.
-- **Pliki**: gdy przeciągasz elementy, Kubby przechowuje wyłącznie odniesienia do ścieżek plików (w tym lokalną pamięć podręczną, aby przywrócić półkę przy następnym uruchomieniu). Odniesienia pozostają, dopóki ich nie usuniesz lub nie wyczyścisz półki; zawartość plików nigdy nie jest odczytywana, kopiowana ani przesyłana.
+- **Sieć**: Kubby nie łączy się z internetem. Komunikuje się wyłącznie bezpośrednio z Twoimi sparowanymi urządzeniami w sieci lokalnej (wykrywanie Bonjour/mDNS + bezpośrednie połączenia między urządzeniami). Nie uczestniczy w tym żaden serwer.
+- **Pliki**: Gdy umieszczasz element na półce, Kubby zapisuje wyłącznie odwołanie do ścieżki pliku (oraz niewielką lokalną pamięć podręczną, aby przywrócić półkę przy następnym uruchomieniu). Odwołania pozostają, dopóki ich nie usuniesz lub nie wyczyścisz półki. Zawartość plików jest przesyłana między sparowanymi urządzeniami **tylko wtedy, gdy aktywnie pobierzesz element**, bezpośrednio w sieci lokalnej i nigdy przez serwer.
 - **Zrzuty ekranu**: po włączeniu „Zrzuty ekranu na półkę” Kubby uzyskuje dostęp do wybranego folderu zrzutów (poprzez zakładkę o ograniczonym zakresie) wyłącznie po to, by dodawać nowe zrzuty na półkę jako odniesienia. Ich zawartość pozostaje na Twoim Macu i nigdy nie jest przesyłana.
 - **Raporty awarii**: Nie zintegrowano żadnej zewnętrznej usługi zbierania raportów awarii.
 - **Analityka**: Nie zintegrowano żadnych SDK analitycznych ani śledzących.
